@@ -39,12 +39,10 @@ A simple Minesweeper game built with **Svelte**.
 ## Project Structure
 
 ```bash
-        /src
-            App.svelte          
-            /components
-                Cell.svelte     
-            /stores
-                gameStore.js
+    /src
+        App.svelte          
+        /components
+            Cell.svelte     
 ```
 ### How to Play
 
